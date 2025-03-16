@@ -19,6 +19,8 @@ INSTALLED_APPS = [
     'sistema_clinico.apps.reportes',
     'sistema_clinico.apps.examenes',
     'sistema_clinico.apps.eventos',
+    'sistema_clinico.apps.pacientes',
+    'sistema_clinico.apps.medicos',
 ]
 
 MIDDLEWARE = [
